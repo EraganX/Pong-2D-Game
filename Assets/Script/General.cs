@@ -16,11 +16,11 @@ public class General : MonoBehaviour
                 PLAYER_PADDLE_SPEED = 10f;
                 break;
             case 1:
-                AI_PADDLE_SPEED = 50f;
+                AI_PADDLE_SPEED = 70f;
                 PLAYER_PADDLE_SPEED = 15f;
                 break;
             case 2:
-                AI_PADDLE_SPEED = 70f;
+                AI_PADDLE_SPEED = 100f;
                 PLAYER_PADDLE_SPEED = 20f;
                 break;
             default:
